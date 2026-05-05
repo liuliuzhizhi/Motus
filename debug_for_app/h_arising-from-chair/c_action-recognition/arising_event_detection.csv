@@ -1,0 +1,2 @@
+event_id,category,rise_start_time,rise_end_time,rise_amplitude,stand_speed,stand_start_time,stand_end_time,stand_duration
+1,Successful,1.4666666666666666,4.533333333333333,0.408759028347881,0.13329098750474383,4.533333333333333,7.433333333333334,2.9000000000000004

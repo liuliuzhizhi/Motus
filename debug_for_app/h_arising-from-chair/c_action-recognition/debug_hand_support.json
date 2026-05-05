@@ -1,0 +1,69 @@
+[
+  {
+    "event_id": 1,
+    "category": "Successful",
+    "rise_start_time": 1.6933333333333334,
+    "rise_end_time": 2.6933333333333334,
+    "overall_support": true,
+    "decisions": {
+      "left": {
+        "support": true,
+        "reason": "Wrist appears anchored: R_v=0.13 (<0.4), R_p=0.27 (<0.6), wrist below shoulder by 0.87 torso-lengths.",
+        "criteria": {
+          "vertical_ratio_low": true,
+          "path_ratio_low": true,
+          "wrist_in_support_region": true
+        },
+        "features": {
+          "vertical_movement_ratio": 0.13087867133075518,
+          "path_ratio": 0.2679303066912488,
+          "wrist_below_shoulder_norm": 0.8666007067901091,
+          "wrist_below_hip_norm": -0.2924944563583876,
+          "wrist_to_knee_norm": 1.2290878438342843,
+          "wrist_y_std_norm": 0.018480108055561266
+        }
+      },
+      "right": {
+        "support": true,
+        "reason": "Wrist appears anchored: R_v=0.05 (<0.4), R_p=0.25 (<0.6), wrist below shoulder by 0.92 torso-lengths.",
+        "criteria": {
+          "vertical_ratio_low": true,
+          "path_ratio_low": true,
+          "wrist_in_support_region": true
+        },
+        "features": {
+          "vertical_movement_ratio": 0.045502815336940665,
+          "path_ratio": 0.25176324871744366,
+          "wrist_below_shoulder_norm": 0.9156199919664861,
+          "wrist_below_hip_norm": -0.20683164266606055,
+          "wrist_to_knee_norm": 1.1347032231727618,
+          "wrist_y_std_norm": 0.010200649114799348
+        }
+      }
+    },
+    "features": {
+      "torso_length": 0.218517255295354,
+      "body_path_norm": 0.3871425511666189,
+      "body_dy_norm": 0.36780659176667924,
+      "body_y_sign": 1.0,
+      "left_wrist_path_norm": 0.10372722246730469,
+      "left_wrist_dy_norm": 0.04813803803711646,
+      "left_v_ratio": 0.13087867133075518,
+      "left_p_ratio": 0.2679303066912488,
+      "left_wrist_below_shoulder": 0.8666007067901091,
+      "left_wrist_below_hip": -0.2924944563583876,
+      "left_wrist_to_knee_norm": 1.2290878438342843,
+      "left_wrist_std_x_norm": 0.0068650452946398205,
+      "left_wrist_std_y_norm": 0.018480108055561266,
+      "right_wrist_path_norm": 0.09746826639846712,
+      "right_wrist_dy_norm": 0.016736235424868726,
+      "right_v_ratio": 0.045502815336940665,
+      "right_p_ratio": 0.25176324871744366,
+      "right_wrist_below_shoulder": 0.9156199919664861,
+      "right_wrist_below_hip": -0.20683164266606055,
+      "right_wrist_to_knee_norm": 1.1347032231727618,
+      "right_wrist_std_x_norm": 0.021299543260633897,
+      "right_wrist_std_y_norm": 0.010200649114799348
+    }
+  }
+]

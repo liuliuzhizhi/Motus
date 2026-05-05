@@ -1,0 +1,16 @@
+{
+  "n_events_total": 1,
+  "n_failures_total": 0,
+  "n_successes_total": 1,
+  "reference_speed": 0.5,
+  "status": "ok",
+  "n_failures_before_first_success": 0,
+  "first_success_event_id": 1,
+  "first_success_used_hand_support": true,
+  "first_success_stand_speed": 0.1332909875047438,
+  "first_success_stand_duration": 2.9000000000000004,
+  "speed_ratio": 0.2665819750094876,
+  "decision_branch": "support_no_multiple_failures",
+  "final_score": 2,
+  "rationale": "First stable success at event 1 used hand support; 0 prior failure(s) (< 1). -> 2"
+}

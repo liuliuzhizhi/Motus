@@ -1,0 +1,13 @@
+{
+  "final_score": 2,
+  "speed_score": 0,
+  "speed_level": "正常",
+  "speed_reason": "R=1.17 <1.2",
+  "pause_score": 0,
+  "decay_score": 2,
+  "base_score": 2,
+  "special_rule": "无",
+  "rule_triggered": "Mid decay (3-6) -> 2 分",
+  "score_explanation": "速度评估: 正常 (R=1.17 <1.2); 暂停次数=0, 冻结次数=0; 衰减=True, 起始位置=3; 基础分=2; 特殊规则=无; 最终得分=2",
+  "status": "ok"
+}

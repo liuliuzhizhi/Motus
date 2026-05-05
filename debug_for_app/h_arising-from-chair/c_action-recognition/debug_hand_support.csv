@@ -1,0 +1,2 @@
+event_id,category,left_hand_support,right_hand_support,any_hand_support,left_v_ratio,left_p_ratio,right_v_ratio,right_p_ratio,left_wrist_below_shoulder_norm,right_wrist_below_shoulder_norm,left_wrist_to_knee_norm,right_wrist_to_knee_norm,body_dy_norm
+1,Successful,True,True,True,0.13087867133075518,0.2679303066912488,0.045502815336940665,0.25176324871744366,0.8666007067901091,0.9156199919664861,1.2290878438342843,1.1347032231727618,0.36780659176667924

@@ -1,0 +1,20 @@
+{
+  "mean_amplitude": 0.02764812137610317,
+  "median_amplitude": 0.0279185094023466,
+  "max_amplitude": 0.0318825754254707,
+  "mean_duration": 0.47575757575757577,
+  "median_duration": 0.5,
+  "median_movement_rate": 0.38029878923733273,
+  "amplitude_slope": -0.00013539076080256563,
+  "duration_slope": 0.00787878787878789,
+  "first_decay_position": 3,
+  "decay_occurred": 1,
+  "amplitude_cv": 0.09387670903949284,
+  "duration_cv": 0.07373144524070205,
+  "max_duration": 0.5333333333333333,
+  "interval_cv": 0.07602339181286548,
+  "max_interval": 0.6666666666666666,
+  "num_pauses": 0,
+  "num_freezes": 0,
+  "num_events": 11
+}
